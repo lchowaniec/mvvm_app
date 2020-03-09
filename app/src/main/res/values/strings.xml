@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">mvvm_app</string>
+    <string name="connection_error_01">Connection error:01</string>
+    <string name="movie_info">Movie Info</string>
+    <string name="rating">Rating:</string>
+    <string name="Runtime">Runtime: </string>
+    <string name="budget">Budget: </string>
+    <string name="Revenue">Revenue: </string>
+    <string name="ovierview">Ovierview: </string>
 </resources>
